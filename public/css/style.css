@@ -1,0 +1,99 @@
+#navbar
+{
+	background-color: #fff;
+	border: none;
+	padding: 10px 30px;
+	padding-bottom: 0px; 
+	-webkit-box-shadow: 0 4px 12px 0px rgba(0,0,0,0.05);
+	-moz-box-shadow: 0 4px 12px 0px rgba(0,0,0,0.05);
+	box-shadow: 0 4px 12px 0px rgba(0,0,0,0.05);
+}
+#dropdownnav
+{
+	color: #000;
+	border: none;
+}
+#dropdownnav:hover
+{
+	color:rgba(0,0,0,0.6);
+	background-color: #fff;
+}
+#font1
+{
+	color:#000;
+	font-size: 16px;
+	font-weight: 600;
+	font-family: Andika;
+}
+#font1:hover
+{
+	color: rgba(0,0,0,0.7);
+	border-bottom: 2.5px solid blue;
+}
+#font2
+{
+	font-family: Andika;
+	color:#000;
+	font-size: 16px;
+	font-weight: 600;
+}
+#font2:hover
+{
+	color: rgba(0,0,0,0.7);
+	border-bottom: 2.5px solid brown;
+}
+#font3
+{
+	font-family: Andika;
+	color:#000;
+	font-size: 16px;
+	font-weight: 600;
+}
+#font3:hover
+{
+	color: rgba(0,0,0,0.7);
+	border-bottom: 2.5px solid orange;
+}
+#font4
+{
+	font-family: Andika;
+	color:#000;
+	font-size: 16px;
+	font-weight: 600;
+}
+#font4:hover
+{
+	color: rgba(0,0,0,0.7);
+	border-bottom: 2.5px solid red;
+}
+#font5
+{
+	font-family: Andika;
+	color:#000;
+	font-size: 16px;
+	font-weight: 600;
+}
+#font5:hover
+{
+	color: rgba(0,0,0,0.7);
+	border-bottom: 2.5px solid yellow;
+}
+#font6
+{
+	color:#000;
+	font-family: Andika;
+	font-size: 16px;
+	font-weight: 600;
+}
+#font6:hover
+{
+	color: rgba(0,0,0,0.7);
+	border-bottom: 2.5px solid pink;
+}
+#heading
+{
+	color:black;
+	font-size: 18px;
+	font-weight: 700;
+	font-family: Cinzel;
+}
